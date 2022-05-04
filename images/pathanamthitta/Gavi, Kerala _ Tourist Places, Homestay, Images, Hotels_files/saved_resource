@@ -1,0 +1,38 @@
+
+var ftGUID_4167865="52344BD5933887";
+var ftConfID_4167865="0";
+var ftParams_4167865="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=www.holidify.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.holidify.com%2F&cachebuster=940207.3719412594";
+var ftKeyword_4167865="";
+var ftCustom_4167865="";
+var ftSection_4167865="";
+var ftSegment_4167865="aixh";
+var ftSegmentList_4167865=[{s:'aixh'}];
+var ftRuleMatch_4167865="0";
+var ftTimestamp_4167865="1651644793";
+var ftGeoC2_4167865="in";
+var ftGeoState_4167865="kl";
+var ftGeoCity_4167865="thrissur";
+var ftISP_4167865="vodafone india";
+var ftSpeed_4167865="mobile";
+var ftDMA_4167865="-1";
+var ftLong_4167865="76.22";
+var ftLat_4167865="10.56";
+var ftPostal_4167865="680010";
+var ftTimeZone_4167865="530";
+var ftMobileCarrier_4167865="vi india";
+var ftImp4167865 = {};
+ftImp4167865.privacy = "x";
+ftImp4167865.guidAge = "3";
+ftImp4167865.impID = "72BDADD4-4C4A-0C3F-64EF-61386FF14130";
+ftImp4167865.duid = "FT:52344BD5933887";
+
+ftImp4167865.ft_tpplid = "";
+ftImp4167865.ft_c = {};
+ftImp4167865.gdpr = "";
+ftImp4167865.gdpr_consent = "";
+ftImp4167865.gdpr_pd = "";
+ftImp4167865.oob_consent = "";
+ftImp4167865.gdprStoredConsent = "";
+ftImp4167865.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/416/4167865/3873388/js/j-4167865-3873388.js" id="ftscript_m4167865" name="ftscript_m4167865"></scr'+'ipt>');
