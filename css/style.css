@@ -1,0 +1,77 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-size: cover;
+}
+header{
+    background-color:rgba(255,255,255,0.7);
+    /* height:4.2em;
+    border: 2px solid rgb(217, 219, 221); */
+}
+img{
+    margin-left: 5%;
+    margin-bottom: 0%;
+    
+}
+.head-tag{
+    float:right;
+    margin-top: 5px;
+    margin-right: 20px;
+    
+}
+.head-tag a{
+    text-decoration: none;
+    border: 1.5px solid black;
+    color:black;
+    background-color:gray;
+    padding-left: 2.5px;
+    margin-left: 7px;
+    padding-right:2.5px;
+    padding-top: 2.5px;
+    padding-bottom: 3px;
+    font-family:'Times New Roman', Times, serif;
+}
+.head-tag a:hover{
+color:white;
+background-color:brown;
+transition: .5s ease-in-out;    
+}
+#edu1{
+    text-align: center;
+    padding-top: 2%;
+    font-size:xx-large;
+}
+.iml{
+    color:black;
+    font-weight:bold;    
+    margin-left: 5%;
+    text-align: center;
+}
+.ppt{
+    color:goldenrod;
+}
+#ppt{
+    color:brown;
+    text-align: center;
+    margin-top: 1%;
+}
+.demo a{
+    text-align: center;
+    text-decoration: none;
+    border: 1.5px solid black;
+    color:white;
+    background-color:blue;
+    padding-left: 4px;
+    margin-left: 50%;
+    padding-right:4px;
+    padding-top: 2.5px;
+    padding-bottom: 3px;
+    font-family:'Times New Roman', Times, serif;
+}
+.demo a:hover{
+color:black;
+background-color:greenyellow;
+transition: .5s ease-in-out;    
+}
